@@ -80,7 +80,7 @@ Commit your changes: ```git commit -m 'Add some feature'```
 
 Push to the branch: ```git push origin feature/your-feature-name```
 
-Open a pull reque
+Open a pull request
 
 ### License
 
