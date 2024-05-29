@@ -74,11 +74,12 @@ The ETL scripts and PowerBI dashboard can be used to analyze sales data and gene
 Contributions are welcome! Please follow these steps:
 
 Fork the repository.
-Create a new branch: git checkout -b feature/your-feature-name.
-Commit your changes: git commit -m 'Add some feature'.
-Push to the branch: git push origin feature/your-feature-name.
+Create a new branch: ```git checkout -b feature/your-feature-name```
+Commit your changes: ```git commit -m 'Add some feature'```
+Push to the branch: ```git push origin feature/your-feature-name```
 Open a pull reque
 
 ### License
 
-This project is licensed under the MIT License. See the LICENSE file for details
+This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
+
