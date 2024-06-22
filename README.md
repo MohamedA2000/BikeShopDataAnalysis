@@ -42,6 +42,9 @@ Sales Overview: Average Revenue, Total Revenue, Total Profit, Profit Margins.
 Customer Insights: Customer demographics
 Geographical Analysis: Sales distribution across various territories.
 
+![thumbnail-pic](assets/images/DataBike_Dashboard-1.png)
+
+
 ### Getting Started
 
 To get started with this project, follow these steps:
